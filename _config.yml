@@ -8,13 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kaan Baturalp Coşdan Portfolio Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kaan Baturalp Coşdan"
+description              : &description "Computer Engineering Student at Yildiz Technical University | Devops Engineering Intern at Ziraat Technology"
+url                      : https://kaan-baturalp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kaan-baturalp.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Kaan Baturalp Coşdan"
+  pronouns         : "he/him"
+  bio              : "Computer Engineering Student at Yildiz Technical University | Devops Engineering Intern at Ziraat Technology"
+  location         : "Istanbul, Turkey"
+  employer         : "Yildiz Technical University"
+  uri              : "https://kaanbaturalp.github.io"
+  email            : "baturalpkaan61@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
